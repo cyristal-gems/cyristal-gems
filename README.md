@@ -13,13 +13,11 @@
 ## 🔍 About Me  
 I currently work as a **GSOC Operator**, where I help monitor security threats, analyze incidents, and support security operations. As I continue to develop my skills, I am actively exploring **Governance, Risk, and Compliance (GRC)**, **Incident Response**, and **Digital Forensics** to expand my cybersecurity expertise.  
 
-I enjoy digging into security frameworks, automating security tasks, and analyzing real-world cyber incidents.  
-
 I'm always looking for ways to **expand my technical knowledge, participate in hands-on security challenges, and stay ahead of evolving cyber threats**. Whether it's through **CTFs, security research, or continuous learning**, I'm committed to growing in this field.
 
 ---
 
-## 🚀 Areas of Interest   
+## 🚀 Areas of Interest  
 - **Governance, Risk & Compliance (GRC):** Security policies, risk assessments, compliance audits  
 - **Incident Response:** Threat detection, forensic analysis, and response planning  
 - **Digital Forensics:** Evidence collection, malware analysis, and investigations  
