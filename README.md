@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=700&lines=GRC,+Incident+Response,+Threat+Detection,+and+Continuous+Learning!)](https://github.com/cyristal-gems)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=700&lines=GRC+|+Incident+Response+|+Digital+Forensics+|+Threat+Intelligence+)](https://github.com/cyristal-gems)
 
-</div>  
+</div>
 
 ---
 
@@ -56,6 +56,7 @@
 ❌ **Weakness:** Information Overload (+30 Learning Fatigue)  
 🛡 **Resistance:** Continuous Growth (-20 Imposter Syndrome)  
 🏆 **Strategy Bonus:** Gains XP from hands-on security challenges, industry research, and networking with cybersecurity professionals.  
+
 <!---
 cyristal-gems/cyristal-gems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
