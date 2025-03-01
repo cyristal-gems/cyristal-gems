@@ -5,11 +5,11 @@
 </div>
 
 ## 🏆 **Battle Road**  
-*Embarking on a journey to master digital defense, continuously honing skills in Governance, Risk, and Compliance (GRC), Incident Response, and Digital Forensics. With curiosity and a growing skillset, challenges are tackled head-on, hands-on experience is collected, and XP is gained through research, labs, and strategic problem-solving. The path to cybersecurity mastery is filled with learning, and every challenge is an opportunity for growth!*
+*The road to mastery unfolds, driven by the pursuit of excellence in Governance, Risk, and Compliance (GRC), Incident Response, and Digital Forensics. Every challenge faced is another step forward, each obstacle a test of strategy and resilience. Through research, hands-on trials, and relentless curiosity, experience points accumulate, forging a stronger and more skilled contender. The journey is long, the battles are many, but growth is inevitable. Will the challenge be met?*
 
 **Trainer Progress:**  
 ```
-[████░░░░░░]  Level 4 - Strengthening Defensive & Analytical Skills 
+[████░░░░░░]  Level 4 - Strengthening Defensive & Analytical Skills
 ```
 
 **Specialty:** Cyber Defense & Digital Forensics (+50 Defensive Strategy)  
@@ -19,8 +19,8 @@
   
 ---
 
-## ⚔️ **Battle Techniques & Training**  
-(Attack power values added for a more dynamic effect)  
+## ⚔️ **Combat Skills & Strategy**  
+_(Attack power values added for a more dynamic effect)_  
 
 - **Risk Mitigation Strategies** *(Passive Ability | Effect: +20 Compliance Stability)*  
 Develops and applies frameworks to minimize cybersecurity threats and enhance compliance measures.  
