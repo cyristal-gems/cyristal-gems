@@ -4,23 +4,13 @@
 
 </div>
 
----
+## 🏆 **Battle Road**  
+*Embarking on a journey to master digital defense, continuously honing skills in Governance, Risk, and Compliance (GRC), Incident Response, and Digital Forensics. With curiosity and a growing skillset, challenges are tackled head-on, hands-on experience is collected, and XP is gained through research, labs, and strategic problem-solving. The path to cybersecurity mastery is filled with learning, and every challenge is an opportunity for growth!*
 
-### 🔐 **Trainer Profile & Stats**  
-*A strategic cybersecurity practitioner dedicated to protecting digital landscapes. Continuously training in Governance, Risk, and Compliance (GRC), Incident Response, and Digital Forensics to improve security postures and counter cyber threats. Always prepared for a challenge, this trainer is committed to enhancing their skills and staying ahead of evolving security threats.*
-
-  
-<strong>Experience Level:</strong>
-<div style='display: flex; align-items: center; gap: 2px; margin-top: 5px;'>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #4CAF50; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #4CAF50; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #4CAF50; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
-</div>
+**Trainer Progress:**  
+```
+[████░░░░░░]  Level 4 - Strengthening Defensive & Analytical Skills 
+```
 
 **Specialty:** Cyber Defense & Digital Forensics (+50 Defensive Strategy)  
 **Focus Areas:** GRC, Incident Response, Threat Intelligence (+40 Threat Mitigation)  
@@ -29,9 +19,7 @@
   
 ---
 
-</div>
-
-### ⚔️ **Combat Tactics & Strategies**  
+## ⚔️ **Battle Techniques & Training**  
 (Attack power values added for a more dynamic effect)  
 
 - **Risk Mitigation Strategies** *(Passive Ability | Effect: +20 Compliance Stability)*  
@@ -48,7 +36,7 @@ Participates in security challenges, penetration testing exercises, and continuo
 
 ---
 
-### 🎮 **Hobbies & Side Quests**  
+## 🎮 **Exploration & Adventures**  
 
 - **Pro Wrestling Enthusiast:** Follows **AEW**, **WWE**, and **NJPW** regularly.  
 - **Horror Movie Connoisseur:** Favorite franchises include **Scream**, **Saw**, and **Terrifier**.  
@@ -56,16 +44,16 @@ Participates in security challenges, penetration testing exercises, and continuo
 
 ---
 
-### 📖 **Skill Progression & Mastery**  
+## 📖 **Skill Trials & Mastery Path**  
 
 - **Battle Training:** Regular participation in **Capture The Flag (CTF)** challenges and cybersecurity competitions.  
-- **Knowledge Expansion:*** Staying updated on emerging cyber threats through security blogs, whitepapers, and research papers.  
-- **Certification Quest:*** Actively pursuing industry-recognized cybersecurity certifications and training programs.  
-- **Trainer Networking:*** Engaging in cybersecurity communities, conferences, and mentorship programs to grow expertise.  
+- **Knowledge Expansion:** Staying updated on emerging cyber threats through security blogs, whitepapers, and research papers.  
+- **Certification Quest:** Actively pursuing industry-recognized cybersecurity certifications and training programs.  
+- **Trainer Networking:** Engaging in cybersecurity communities, conferences, and mentorship programs to grow expertise.  
 
 ---
 
-### 🌐 **Network & Alliances**  
+## 🌐 **Guild & Connections**  
 
 📍 **GitHub:** [github.com/cyristal-gems](https://github.com/cyristal-gems)  
 💼 **LinkedIn:** [linkedin.com/in/cyristalj](https://linkedin.com/in/cyristalj)  
@@ -73,13 +61,13 @@ Participates in security challenges, penetration testing exercises, and continuo
 
 ---
 
-### 🚀 **Growth & Adaptability**  
+## 🚀 **Stats & Abilities**  
 - **Weakness:** Balancing Theoretical Knowledge with Practical Application (+30 Skill Development Challenge)  
 - **Strength:** Adaptability & Continuous Learning (-20 Imposter Syndrome)  
 - **Advancement Boost:** Gains XP from hands-on security challenges, industry research, and professional networking.  
 
 ---
 
-<div align="center">
+<div align="center" style="border: 3px solid #000; border-radius: 10px; padding: 10px; background-color: #f8f8f8;">
   <img src="https://media.giphy.com/media/x83yCwqh9fnK8/giphy.gif" alt="Glitch Cybersecurity GIF" width="500">
 </div>
