@@ -4,18 +4,18 @@
 
 </div>
 
-## 🏆 **Battle Road**  
-*The road to mastery unfolds, driven by the pursuit of excellence in Governance, Risk, and Compliance (GRC), Incident Response, and Digital Forensics. Every challenge faced is another step forward, each obstacle a test of strategy and resilience. Through research, hands-on trials, and relentless curiosity, experience points accumulate, forging a stronger and more skilled contender. The journey is long, the battles are many, but growth is inevitable. Will the challenge be met?*
+## 🏆 **Journey Begins**  
+*A journey fueled by curiosity and the drive to improve. Each challenge is a step forward, every obstacle a chance to refine strategy and resilience. Through research, hands-on practice, and continuous learning, skills evolve and experience grows. The road ahead is long, but every challenge brings new opportunities to rise and improve.*
 
 **Trainer Progress:**  
 ```
 [████░░░░░░]  Level 4 - Strengthening Defensive & Analytical Skills
 ```
 
-**Specialty:** Cyber Defense & Digital Forensics (+50 Defensive Strategy)  
-**Focus Areas:** GRC, Incident Response, Threat Intelligence (+40 Threat Mitigation)  
-**Investigation Skills:** Malware Analysis, Threat Hunting, Log Analysis (+35 Forensic Analysis)  
-**Learning Path:** Security Research, Ethical Hacking, Risk Management (+30 Skill Development)  
+**Specialty:** Cyber Defense & Digital Forensics _(+50 Defensive Strategy)_  
+**Focus Areas:** GRC, Incident Response, Threat Intelligence _(+40 Threat Mitigation)_  
+**Investigation Skills:** Malware Analysis, Threat Hunting, Log Analysis _(+35 Forensic Analysis)_  
+**Learning Path:** Security Research, Ethical Hacking, Risk Management _(+30 Skill Development)_   
   
 ---
 
@@ -62,12 +62,11 @@ Participates in security challenges, penetration testing exercises, and continuo
 ---
 
 ## 🚀 **Stats & Abilities**  
-- **Weakness:** Balancing Theoretical Knowledge with Practical Application (+30 Skill Development Challenge)  
-- **Strength:** Adaptability & Continuous Learning (-20 Imposter Syndrome)  
+- **Weakness:** Balancing Theoretical Knowledge with Practical Application _(+30 Skill Development Challenge)_
+- **Strength:** Adaptability & Continuous Learning _(-20 Imposter Syndrome)_
 - **Advancement Boost:** Gains XP from hands-on security challenges, industry research, and professional networking.  
 
 ---
 
 <div align="center" style="border: 3px solid #000; border-radius: 10px; padding: 10px; background-color: #f8f8f8;">
   <img src="https://media.giphy.com/media/x83yCwqh9fnK8/giphy.gif" alt="Glitch Cybersecurity GIF" width="500">
-</div>
