@@ -10,17 +10,16 @@
 *A strategic cybersecurity practitioner dedicated to protecting digital landscapes. Continuously training in Governance, Risk, and Compliance (GRC), Incident Response, and Digital Forensics to improve security postures and counter cyber threats. Always prepared for a challenge, this trainer is committed to enhancing their skills and staying ahead of evolving security threats.*
 
   
-<strong>Experience Level:</strong>  
-  <div style='display: flex; justify-content: center; gap: 4px; margin-top: 5px;'>
-    <span style='display: inline-block; width: 15px; height: 15px; background-color: #4CAF50; border: 1px solid #000; border-radius: 3px;'></span>
-    <span style='display: inline-block; width: 12px; height: 12px; background-color: #4CAF50; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 12px; height: 12px; background-color: #4CAF50; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 15px; height: 15px; background-color: #ddd; border: 1px solid #000; border-radius: 3px;'></span>
-    <span style='display: inline-block; width: 12px; height: 12px; background-color: #ddd; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 12px; height: 12px; background-color: #ddd; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 12px; height: 12px; background-color: #ddd; border: 1px solid #000;'></span>
-    <span style='display: inline-block; width: 12px; height: 12px; background-color: #ddd; border: 1px solid #000;'></span>
-</div>
+<strong>Experience Level:</strong>
+<div style='display: flex; align-items: center; gap: 2px; margin-top: 5px;'>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #4CAF50; border: 1px solid #000;'></span>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #4CAF50; border: 1px solid #000;'></span>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #4CAF50; border: 1px solid #000;'></span>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
+    <span style='display: inline-block; width: 20px; height: 10px; background-color: #ddd; border: 1px solid #000;'></span>
 </div>
 
 **Specialty:** Cyber Defense & Digital Forensics (+50 Defensive Strategy)  
@@ -84,8 +83,3 @@ Participates in security challenges, penetration testing exercises, and continuo
 <div align="center">
   <img src="https://media.giphy.com/media/x83yCwqh9fnK8/giphy.gif" alt="Glitch Cybersecurity GIF" width="500">
 </div>
-
-<!---
-cyristal-gems/cyristal-gems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
