@@ -11,9 +11,6 @@
 ## 🏆 **Journey Begins**  
 *A journey fueled by curiosity and the drive to improve. Each challenge is a step forward, every obstacle a chance to refine strategy and resilience. Through research, hands-on practice, and continuous learning, skills evolve and experience grows. The road ahead is long, but every challenge brings new opportunities to rise and improve.*
 
-## 🏆 **Journey Begins**  
-*A journey fueled by curiosity and the drive to improve. Each challenge is a step forward, every obstacle a chance to refine strategy and resilience. Through research, hands-on practice, and continuous learning, skills evolve and experience grows. The road ahead is long, but every challenge brings new opportunities to rise and improve.*
-
 **Trainer Progress:**  
 ```
 [████░░░░░░]  Level 4 - Strengthening Defensive & Analytical Skills
