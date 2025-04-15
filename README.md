@@ -4,6 +4,13 @@
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" alt="Mew Pokémon GIF" width="300">
+</div>
+
+## 🏆 **Journey Begins**  
+*A journey fueled by curiosity and the drive to improve. Each challenge is a step forward, every obstacle a chance to refine strategy and resilience. Through research, hands-on practice, and continuous learning, skills evolve and experience grows. The road ahead is long, but every challenge brings new opportunities to rise and improve.*
+
 ## 🏆 **Journey Begins**  
 *A journey fueled by curiosity and the drive to improve. Each challenge is a step forward, every obstacle a chance to refine strategy and resilience. Through research, hands-on practice, and continuous learning, skills evolve and experience grows. The road ahead is long, but every challenge brings new opportunities to rise and improve.*
 
@@ -33,6 +40,26 @@ Monitors emerging cyber threats, gathers intelligence, and strengthens proactive
 
 - **Technical Training** *(Skill Development | XP Boost: +10 Hands-On Experience)*  
 Participates in security challenges, penetration testing exercises, and continuous learning to refine expertise.  
+
+---
+
+## 🏅 Trainer Badges  
+_Each badge represents a level-up in cybersecurity mastery—boosting attack power, defense skills, and XP gains!_
+
+<div align="center">
+
+[![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/)  
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/)  
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/)  
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
+[![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-green?style=for-the-badge)](https://www.6sigma.us/six-sigma-certification/green-belt/)  
+[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)  
+[![Cisco Cybersecurity Essentials](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)  
+[![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)  
+[![Google IT Support](https://img.shields.io/badge/Google-IT%20Support%20Professional-red?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/certificates/it-support/)  
+[![Google Project Management](https://img.shields.io/badge/Google-Project%20Management%20Professional-red?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/certificates/project-management/)
+
+</div>
 
 ---
 
