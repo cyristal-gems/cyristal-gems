@@ -40,7 +40,7 @@ Participates in security challenges, penetration testing exercises, and continuo
 
 ---
 
-## 🏅 Trainer Badges  
+## 🏅 Trainer Badges  _(so far)_
 _Each badge represents a level-up in cybersecurity mastery—boosting attack power, defense skills, and XP gains!_
 
 <div align="center">
