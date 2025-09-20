@@ -50,18 +50,24 @@ _Each badge represents a level-up in cybersecurity mastery—boosting attack pow
 </div>
 
 <p align="center">
-  🔗 For a full list of certifications, visit my <a href="https://cyristal-gems.github.io" target="_blank"><b>Portfolio Site</b></a>.
+  🔗 This trainer’s full list of certifications can be discovered at their <a href="https://cyristal-gems.github.io" target="_blank"><b>Portfolio</b></a>.
 </p>
 
 ---
 
-## 🛠️ Tools & Languages  
+## 🔮 Digital Arsenal
+_An evolving set of cyber tools and techniques, ready for battle in every digital arena._
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)  ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 
 </div>
+
+<p align="center">
+  🔗 This trainer’s full skillset is also cataloged  their <a href="https://cyristal-gems.github.io" target="_blank"><b>Portfolio</b></a>.
+</p>
+
 
 ---
 
@@ -95,7 +101,6 @@ _Each badge represents a level-up in cybersecurity mastery—boosting attack pow
 - **Strength:** Adaptability & Continuous Learning _(-20 Imposter Syndrome)_
 - **Advancement Boost:** Gains XP from hands-on security challenges, industry research, and professional networking.  
 
----
 
 <div align="center">
 
