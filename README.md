@@ -65,7 +65,7 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 </div>
 
 <p align="center">
-  🔗 This trainer’s full skillset is also cataloged  their <a href="https://cyristal-gems.github.io" target="_blank"><b>Portfolio</b></a>.
+  🔗 This trainer’s full skillset is also cataloged at their <a href="https://cyristal-gems.github.io" target="_blank"><b>Portfolio</b></a>.
 </p>
 
 
