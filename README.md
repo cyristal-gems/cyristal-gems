@@ -101,7 +101,7 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 - **Strength:** Adaptability & Continuous Learning _(-20 Imposter Syndrome)_
 - **Advancement Boost:** Gains XP from hands-on security challenges, industry research, and professional networking.  
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyristal-gems&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cyristal-gems&layout=compact&theme=tokyonight)
 
 ---
 
