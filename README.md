@@ -50,7 +50,7 @@ _Each badge represents a level-up in cybersecurity mastery—boosting attack pow
 </div>
 
 <p align="center">
-  🔗 This trainer’s full list of certifications can be discovered at their <a href="https://cyristal-gems.github.io" target="_blank"><b>Portfolio</b></a>.
+  🔗 This trainer’s full list of certifications can be discovered at their <a href="https://cyrisjoseph.dev" target="_blank"><b>Portfolio</b></a>.
 </p>
 
 ---
@@ -65,7 +65,7 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 </div>
 
 <p align="center">
-  🔗 This trainer’s full skillset is also cataloged at their <a href="https://cyristal-gems.github.io" target="_blank"><b>Portfolio</b></a>.
+  🔗 This trainer’s full skillset is also cataloged at their <a href="https://cyrisjoseph.dev" target="_blank"><b>Portfolio</b></a>.
 </p>
 
 
