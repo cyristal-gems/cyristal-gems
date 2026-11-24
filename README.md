@@ -1,8 +1,8 @@
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=1100&lines=Technology+%26+Systems+%7C+Law+%26+Legal+Research+%7C+Investigations+%26+Evidence+%7C+Privacy+%26+Data+Governance)](https://github.com/cyristal-gems)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=700&lines=GRC+|+Incident+Response+|+Threat+Management+|+Digital+Forensics+|+Intelligence)](https://github.com/cyristal-gems)
-
-</div>
+</div></div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" alt="Mew Pokémon GIF" width="300">
@@ -13,30 +13,26 @@
 
 **Trainer Progress:**  
 ```
-[████░░░░░░]  Level 4 - Strengthening Defensive & Analytical Skills
+[█████░░░░░]  Level 5 - Connecting Technology, Law & Investigations
 ```
 
-**Specialty:** Cyber Defense & Digital Forensics _(+50 Defensive Strategy)_  
-**Focus Areas:** GRC, Incident Response, Threat Intelligence _(+40 Threat Mitigation)_  
-**Investigation Skills:** Malware Analysis, Threat Hunting, Log Analysis _(+35 Forensic Analysis)_  
-**Learning Path:** Security Research, Ethical Hacking, Risk Management _(+30 Skill Development)_   
-  
+- **Specialty:** Technology & Systems _(+50 Technical Strategy)_
+- **Focus Areas:** Legal Research, Privacy & Regulatory Compliance _(+40 Governance Awareness)_  
+- **Investigation Skills:** Evidence Preservation, Log Analysis & Incident Documentation _(+35 Analytical Insight)_  
+- **Learning Path:** Legal Research, Software Development & Data Governance _(+30 Skill Development)_
+
 ---
 
 ## ⚔️ **Combat Skills & Strategy**  
 _(Attack power values added for a more dynamic effect)_  
-
 - **Risk Mitigation Strategies** *(Passive Ability | Effect: +20 Compliance Stability)*  
-Develops and applies frameworks to minimize cybersecurity threats and enhance compliance measures.  
-
-- **Real-Time Threat Response** *(Attack: 80 Damage | Critical: +15% Higher Detection Accuracy)*  
-Rapidly identifies and neutralizes active threats through forensic analysis and security monitoring.  
-
-- **Advanced Reconnaissance** *(Support Ability | Effect: +25 Threat Awareness)*  
-Monitors emerging cyber threats, gathers intelligence, and strengthens proactive defenses.  
-
-- **Technical Training** *(Skill Development | XP Boost: +10 Hands-On Experience)*  
-Participates in security challenges, penetration testing exercises, and continuous learning to refine expertise.  
+Evaluates risks, reviews requirements, and documents practical steps to protect information and support compliance.  
+- **Incident Response & Analysis** *(Response Ability | Effect: +30 Incident Readiness)*  
+Examines security events, analyzes logs, and coordinates escalation with clear incident documentation.  
+- **Research & Reconnaissance** *(Support Ability | Effect: +25 Context Awareness)*  
+Gathers information from technical, legal, and public sources, questions assumptions, and connects relevant findings.  
+- **Practical Skill Development** *(Skill Development | XP Boost: +10 Hands-On Experience)*  
+Builds software projects, participates in CTF challenges, and practices legal research to turn learning into working skills.  
 
 ---
 
@@ -75,16 +71,16 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 
 - **Pro Wrestling Enthusiast:** Follows **AEW**, **WWE**, and **NJPW** regularly.  
 - **Horror Movie Connoisseur:** Favorite franchises include **Scream**, **Saw**, and **Terrifier**.  
-- **Gaming Explorer:** Plays **Animal Crossing**, **Super Mario**, and **Dark Souls** on Nintendo Switch and PlayStation.  
+- **Gaming Explorer:** Gaming includes (but is not limited to) **Animal Crossing**, **Super Mario**, and **Dark Souls** on Nintendo Switch and PlayStation.  
 
 ---
 
 ## 📖 **Skill Trials & Mastery Path**  
 
-- **Battle Training:** Regular participation in **Capture The Flag (CTF)** challenges and cybersecurity competitions.  
-- **Knowledge Expansion:** Staying updated on emerging cyber threats through security blogs, whitepapers, and research papers.  
-- **Certification Quest:** Actively pursuing industry-recognized cybersecurity certifications and training programs.  
-- **Trainer Networking:** Engaging in cybersecurity communities, conferences, and mentorship programs to grow expertise.  
+- **Battle Training:** Participating in **Capture The Flag (CTF)** challenges, building software projects, and practicing legal research.  
+- **Knowledge Expansion:** Exploring **technology, law, investigations, and privacy** through research, current events, and independent study.  
+- **Certification Quest:** Continuing professional development through **legal studies**, technical training, and relevant credentials.  
+- **Trainer Networking:** Connecting with **technology, legal, and privacy communities** to exchange ideas and learn from others.  
 
 ---
 
