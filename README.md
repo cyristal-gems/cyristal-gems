@@ -103,13 +103,5 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyristal-gems&theme=tokyonight" />
-</p>
-
----
-
 <div align="center" style="border: 3px solid #000; border-radius: 10px; padding: 10px; background-color: #f8f8f8;">
   <img src="https://media.giphy.com/media/x83yCwqh9fnK8/giphy.gif" alt="Glitch Cybersecurity GIF" width="500">
