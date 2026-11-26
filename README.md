@@ -79,7 +79,7 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 
 - **Battle Training:** Participating in **Capture The Flag (CTF)** challenges, building software projects, and practicing legal research.  
 - **Knowledge Expansion:** Exploring **technology, law, investigations, and privacy** through research, current events, and independent study.  
-- **Certification Quest:** Continuing professional development through **legal studies**, technical training, and relevant credentials.  
+- **Certification Quest:** Continuing professional development through legal studies, technical training, and relevant credentials.  
 - **Trainer Networking:** Connecting with **technology, legal, and privacy communities** to exchange ideas and learn from others.  
 
 ---
@@ -92,10 +92,10 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 
 ---
 
-## 🚀 **Stats & Abilities**  
-- **Weakness:** Balancing Theoretical Knowledge with Practical Application _(+30 Skill Development Challenge)_
-- **Strength:** Adaptability & Continuous Learning _(-20 Imposter Syndrome)_
-- **Advancement Boost:** Gains XP from hands-on security challenges, industry research, and professional networking.  
+## 🚀 **Stats & Abilities**
+- **Weakness:** Balancing Curiosity with Focus _(+30 Strategy Refinement Challenge)_
+- **Strength:** Adaptability & Analytical Thinking _(-20 Tunnel Vision)_
+- **Advancement Boost:** Gains XP through hands-on projects, legal research, investigative challenges, and exchanging strategies with fellow trainers.
 
 ---
 
