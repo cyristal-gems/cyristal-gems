@@ -93,9 +93,9 @@ _An evolving set of cyber tools and techniques, ready for battle in every digita
 ---
 
 ## 🚀 **Stats & Abilities**
-- **Weakness:** Balancing Curiosity with Focus _(+30 Strategy Refinement Challenge)_
-- **Strength:** Adaptability & Analytical Thinking _(-20 Tunnel Vision)_
-- **Advancement Boost:** Gains XP through hands-on projects, legal research, investigative challenges, and exchanging strategies with fellow trainers.
+- **Weakness:** Knowing When to Stop Gathering Intel _(+30 Decision-Making Challenge)_
+- **Strength:** Connecting Evidence with Context _(+40 Strategic Insight)_
+- **Advancement Boost:** Earns bonus XP for tackling unfamiliar challenges, putting new knowledge to the test, and returning stronger after a setback.
 
 ---
 
